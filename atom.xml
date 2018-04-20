@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[gavin在路上]]></title>
   <link href="http://gavingeng.github.io/atom.xml" rel="self"/>
   <link href="http://gavingeng.github.io/"/>
-  <updated>2018-04-20T18:05:37+08:00</updated>
+  <updated>2018-04-20T18:42:18+08:00</updated>
   <id>http://gavingeng.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[gavingeng]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://gavingeng.github.io/blog/2018/04/20/test/"/>
+    <updated>2018-04-20T18:41:34+08:00</updated>
+    <id>http://gavingeng.github.io/blog/2018/04/20/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
